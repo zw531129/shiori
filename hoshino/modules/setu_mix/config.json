@@ -1,0 +1,30 @@
+{
+    "base": {
+        "daily_max": 30,
+        "freq_limit": 10
+    },
+    "default": {
+        "withdraw": 30,
+        "lolicon": true,
+        "lolicon_r18": false,
+        "acggov": false
+    },
+    "lolicon": {
+        "mode": 3,
+        "apikey": "",
+        "r18": true,
+        "use_thumb": true,
+        "pixiv_direct": false,
+        "pixiv_proxy": ""
+    },
+    "acggov": {
+        "mode": 0,
+        "apikey": "",
+        "ranking_mode": "daily",
+        "use_thumb": true,
+        "per_page": 25,
+        "pixiv_direct": false,
+        "pixiv_proxy": "",
+        "acggov_proxy": ""
+    }
+}

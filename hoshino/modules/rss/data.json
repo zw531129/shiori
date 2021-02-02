@@ -1,0 +1,17 @@
+{
+  "rsshub": "https://rsshub.di.he.cn",
+  "proxy": "",
+  "proxy_urls": [],
+  "last_time": {
+    "https://rsshub.di.he.cn/bilibili/user/dynamic/353840826": 1605752166.0
+  },
+  "group_rss": {
+    "773835713": [
+      "https://rsshub.di.he.cn/bilibili/user/dynamic/353840826"
+    ],
+    "858729295": [
+      "https://rsshub.di.he.cn/bilibili/user/dynamic/353840826"
+    ]
+  },
+  "group_mode": {}
+}
